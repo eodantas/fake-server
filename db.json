@@ -2,7 +2,7 @@
   "event": {
     "category": '',
     "title": '',
-    'description": '',
+    "description": '',
     "location": '',
     "pets": 1,
     "extras": {
