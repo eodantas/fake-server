@@ -1,9 +1,9 @@
 {
   "event": {
-    "category": '',
-    "title": '',
-    "description": '',
-    "location": '',
+    "category": "",
+    "title": "",
+    "description": "",
+    "location": "",
     "pets": 1,
     "extras": {
       "catering": false,
